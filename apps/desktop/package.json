@@ -104,7 +104,7 @@
     "npmRebuild": false,
     "compression": "normal",
     "appId": "ai.accomplish.desktop",
-    "productName": "Accomplish (formerly Openwork)",
+    "productName": "Accomplish",
     "artifactName": "Accomplish-${version}-${os}-${arch}.${ext}",
     "directories": {
       "output": "release",
